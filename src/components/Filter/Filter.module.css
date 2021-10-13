@@ -1,0 +1,13 @@
+.Filter {
+  max-width: 600px;
+  display: flex;
+  justify-content: space-around;
+  margin-right: auto;
+  margin-left: auto;
+}
+.FilterTitle {
+  font-size: 25px;
+  font-weight: 700;
+  color: chocolate;
+  /* padding: 20px; */
+}
